@@ -8,6 +8,6 @@ Welcome to my GitHub! I'm a software developer and technology leader passionate 
 - 🛠️ Scalable APIs and WebSocket-based real-time systems
 
 🚀 [Check out my resume](Paul_Jenkins_Resume.pdf)  
-🌐 [Connect on LinkedIn](link-to-linkedin)
+🌐 [Connect on LinkedIn](https://www.linkedin.com/in/paul-jenkins-27b04029/)
 
 Feel free to explore my repositories below to see some of my recent work!
