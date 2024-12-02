@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a software developer and technology leader passionate 
 - ☁️ Cloud architecture: Microsoft Azure, Kubernetes, Docker, RabbitMQ
 - 🛠️ Scalable APIs and WebSocket-based real-time systems
 
-🚀 [Check out my resume](link-to-resume)  
+🚀 [Check out my resume](Paul_Jenkins_Resume)  
 🌐 [Connect on LinkedIn](link-to-linkedin)
 
 Feel free to explore my repositories below to see some of my recent work!
