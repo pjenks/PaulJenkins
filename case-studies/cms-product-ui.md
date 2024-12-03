@@ -43,7 +43,7 @@ The application was built using a client-server architecture:
 ---
 
 ## Outcomes
-- Delivered a fully functional UI that reduced product entry time by 30%.
+- Delivered a fully functional UI that reduced product entry time.
 - Achieved zero downtime during deployment and testing.
 - Improved user satisfaction through enhanced design and responsiveness.
 
