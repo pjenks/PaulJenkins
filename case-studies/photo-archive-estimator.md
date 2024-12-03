@@ -30,7 +30,7 @@ The system was developed using a modular architecture:
   - Generating PDF estimates for printing.
 
 ### **Frontend Features**
-1. **Input Forms**: Created dynamic forms for entering project parameters such as photo count, resolution, storage requirements, and delivery options.
+1. **Input Forms**: Created dynamic forms for entering project parameters such as photo, negative and slide count, archive supplies, and delivery options.
 2. **Real-Time Feedback**: Used JavaScript to provide immediate feedback on entered values (e.g., estimated cost ranges).
 3. **Printable View**: Designed a printable estimate layout with branding for the photo archiving company.
 
