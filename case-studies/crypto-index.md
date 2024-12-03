@@ -36,7 +36,7 @@ To build a high-performance cryptocurrency financial index capable of calculatin
 ![Form Example](../media/index-ui-screenshot.png)
 
 ### **Websocket Demo**
-![Websocket Deom](../websocket-demo/)
+![Websocket Demo](../websocketservice-demo/)
 
 ---
 
