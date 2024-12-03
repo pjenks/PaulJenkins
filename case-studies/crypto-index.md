@@ -29,6 +29,10 @@ To build a high-performance cryptocurrency financial index capable of calculatin
 - Reduced operational costs by leveraging Azure Kubernetes.
 
 ## Visuals and Diagrams
+### **UI Example**
+![Form Example](../media/index-ui-screenshot.png)
+
+## Visuals and Diagrams
 ![Architecture Diagram](../media/crypto-index-architecture.png)
 
 ---
