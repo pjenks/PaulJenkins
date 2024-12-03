@@ -36,7 +36,7 @@ The application was built using a client-server architecture:
 3. **User Experience**: Used CSS and tooltips for better usability.
 
 ### **Backend Features**
-1. **Secure API Calls**: Established secure connections to the CMS using OAuth 2.0 authentication.
+1. **Secure API Calls**: Established secure connections to the CMS.
 2. **Error Handling**: Designed detailed error logs to identify failed API calls or validation issues.
 3. **Scalability**: Structured the codebase for easy addition of new product types.
 
