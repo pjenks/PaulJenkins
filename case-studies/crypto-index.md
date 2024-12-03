@@ -14,6 +14,7 @@ To build a high-performance cryptocurrency financial index capable of calculatin
 - Infrastructure: **Azure Kubernetes Service (AKS)**
 - APIs: **RESTful API, WebSocket**
 - Frontend: **HTML, JavaScript, CSS**
+- Database: Azure Database for MySQL flexible server
 
 ## Solution
 - **Architecture**: Designed a distributed system using AKS to scale processing across nodes efficiently.
