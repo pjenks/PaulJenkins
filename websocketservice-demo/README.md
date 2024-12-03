@@ -18,3 +18,15 @@ This repository demonstrates the `WebSocketService` used in a larger proprietary
 Client sends:
 ```json
 {"Cmd":"start", "Type":"tick", "Key":"demo-key-1"}
+
+#### Sample JSON Response
+```json
+{
+  "status": "success",
+  "type": "tick",
+  "data": {
+    "symbol": "BTCUSD",
+    "price": 48632.12,
+    "timestamp": "2024-11-01T14:23:00Z"
+  }
+}
