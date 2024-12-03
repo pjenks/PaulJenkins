@@ -17,7 +17,3 @@ Feel free to explore my repositories some of my recent work!
 1. [Cryptocurrency Financial Index](case-studies/crypto-index.md)
 2. [CMS Product Entry UI](case-studies/cms-product-ui.md)
 3. [Photo Archive Estimator](case-studies/photo-archive-estimator.md)
-
-## Demos
-
-Coming soon.
