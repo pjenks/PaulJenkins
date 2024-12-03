@@ -31,12 +31,12 @@ To build a high-performance cryptocurrency financial index capable of calculatin
 
 ---
 
-## Visuals and Diagrams
+## Visuals and Demo
 ### **UI Example**
 ![Form Example](../media/index-ui-screenshot.png)
 
-### **System Flow Diagram**
-![Architecture Diagram](../media/crypto-index-architecture.png)
+### **Websocket Demo**
+![Websocket Deom](..websocketservice-demo)
 
 ---
 
