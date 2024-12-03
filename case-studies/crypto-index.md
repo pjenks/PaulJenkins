@@ -28,11 +28,13 @@ To build a high-performance cryptocurrency financial index capable of calculatin
 - Enabled seamless client integration through well-documented APIs.
 - Reduced operational costs by leveraging Azure Kubernetes.
 
+---
+
 ## Visuals and Diagrams
 ### **UI Example**
 ![Form Example](../media/index-ui-screenshot.png)
 
-## Visuals and Diagrams
+### **System Flow Diagram**
 ![Architecture Diagram](../media/crypto-index-architecture.png)
 
 ---
