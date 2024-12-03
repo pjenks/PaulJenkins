@@ -33,7 +33,7 @@ The application was built using a client-server architecture:
 ### **Frontend Features**
 1. **Dynamic Form Rendering**: Built reusable JavaScript components to generate product entry forms dynamically based on CMS-provided schemas.
 2. **Validation**: Implemented client-side validation for mandatory fields, formatting, and value ranges.
-3. **User Experience**: Used CSS animations and tooltips for better usability.
+3. **User Experience**: Used CSS and tooltips for better usability.
 
 ### **Backend Features**
 1. **Secure API Calls**: Established secure connections to the CMS using OAuth 2.0 authentication.
