@@ -15,7 +15,6 @@ To create a private, web-based tool for a local photo archiving company to calcu
 ## Technologies Used
 - **Frontend**: HTML, JavaScript, CSS
 - **Backend**: Node.js
-- **Database**: MongoDB (to store pricing rules and configurations)
 - **Tools**: Visual Studio Code, Git, Postman
 
 ---
