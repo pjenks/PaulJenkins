@@ -36,11 +36,11 @@ The system was developed using a modular architecture:
 
 ### **Backend Features**
 1. **Custom Pricing Engine**: Developed a pricing engine to compute costs based on:
-   - Photo count and resolution.
-   - Data storage and retrieval requirements.
+   - Photo count.
+   - Restoration.
+   - Archival supplies.
    - Delivery methods (e.g., physical or digital).
-2. **Database Integration**: Used MongoDB to store pricing configurations, enabling non-technical users to update rates and rules without code changes.
-3. **PDF Generation**: Integrated a library to convert estimates into professional-looking PDFs.
+2. **PDF Generation**: Integrated a library to convert estimates into professional-looking PDFs.
 
 ---
 
