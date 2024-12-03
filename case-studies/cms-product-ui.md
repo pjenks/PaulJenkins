@@ -16,7 +16,7 @@ To develop a user-friendly, web-based front-end interface that allows users to e
 - **Frontend**: HTML, JavaScript, CSS
 - **Backend**: Node.js
 - **APIs**: RESTful APIs to integrate with the third-party CMS
-- **Tools**: Visual Studio Code, Postman, Figma for UI wireframes
+- **Tools**: Visual Studio Code, Postman, Lucid for UI wireframes
 
 ---
 
