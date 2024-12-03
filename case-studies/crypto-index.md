@@ -4,7 +4,7 @@
 To build a high-performance cryptocurrency financial index capable of calculating updated prices multiple times per second. The system should provide real-time data to clients via a RESTful interface, WebSocket, and a web-based UI with price graphing capabilities.
 
 ## Challenges
-- Processing real-time data feeds from over a dozen exchanges.
+- Processing data feeds from over a dozen exchanges.
 - Ensuring scalability and performance while maintaining data consistency.
 - Providing multiple client-facing interfaces (REST, WebSocket, UI).
 
