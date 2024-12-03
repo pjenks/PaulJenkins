@@ -19,7 +19,7 @@ Client sends:
 ```json
 {"Cmd":"start", "Type":"tick", "Key":"demo-key-1"}
 
-#### Sample JSON Response
+## Sample JSON Response
 ```json
 {
   "status": "success",
